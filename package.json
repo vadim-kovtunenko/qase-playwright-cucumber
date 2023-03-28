@@ -1,0 +1,21 @@
+{
+  "name": "salesforce-playwright-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadim-kovtunenko/SalesForce-playwright-cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadim-kovtunenko/SalesForce-playwright-cucumber/issues"
+  },
+  "homepage": "https://github.com/vadim-kovtunenko/SalesForce-playwright-cucumber#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  }
+}
